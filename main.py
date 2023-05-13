@@ -1,4 +1,4 @@
-import cx_Oracle
+#import cx_Oracle
 from fastapi import FastAPI, HTTPException, status
 from fastapi.responses import JSONResponse
 import psycopg2
